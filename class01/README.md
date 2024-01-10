@@ -50,8 +50,8 @@
 | 09 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 10 YoonHeeSeung (HeeSeungYoon) | n/a | - | - | - | - | - | max5982 |
 | 11 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
-| 12 LeeYoungHo (Younghoda) | n/a | - | - | - | - | - | max5982 |
-| 13 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
+| 12 LeeYoungHo  (Younghoda) | n/a | - | - | - | - | - | max5982 |
+| 13 LeeChanSol  (chansol1604) | n/a | - | - | - | - | - | mokiya |
 | 14 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 15 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 16 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
