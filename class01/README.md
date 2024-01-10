@@ -54,7 +54,7 @@
 | 14 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 15 ChoKyuBeen (KyuBeen27) | n/a | - | - | - | - | - | max5982 |
 | 16 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
-| 17 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
+| 17 KangTaeUi (ksk1900) | n/a | - | - | - | - | - | mokiya |
 | 18 HanSanghun (vb0o0dv) | n/a | - | - | - | - | - | mokiya |
 | 19 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 20 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |

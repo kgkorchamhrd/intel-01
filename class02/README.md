@@ -49,7 +49,7 @@
 | 14 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 15 ChoKyuBeen (KyuBeen27) | n/a | - | - | - | - | litcoder |
 | 16 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| 17 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
+| 17 KangTaeUi (ksk1900) | n/a | - | - | - | - | mokiya |
 | 18 HanSangHun (vb0o0dv) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 19 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 20 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
