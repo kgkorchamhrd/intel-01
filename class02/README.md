@@ -43,7 +43,7 @@
 | 08 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 09 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 10 YoonHeeSeung (HeeSeungYoon) | n/a | - | - | - | - | litcoder |
-| 11 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 11 LeeSungChan (SungChanl) | n/a | - | - | - | - | litcoder |
 | 12 LeeYoungHo  (Younghoda) | n/a | - | - | - | - | litcoder |
 | 13 LeeChanSol  (chansol1604) | n/a | - | - | - | - | mokiya |
 | 14 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
