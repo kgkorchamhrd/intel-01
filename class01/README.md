@@ -42,7 +42,7 @@
 | 01 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 02 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 03 ChoHyunUk (HYUNUK123) | n/a | - | - | - | - | - | mokiya |
-| 04 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
+| 04 KimKyeongMin (ddakae23) | n/a | - | - | - | - | - | mokiya |
 | 05 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 06 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 07 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
