@@ -39,7 +39,7 @@
 | 04 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 05 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 06 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 07 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 07 MoonJeangHwan (HardCoding) | n/a | - | - | - | - | - | mokiya |
 | 08 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 09 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 10 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
