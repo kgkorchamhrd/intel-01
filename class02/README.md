@@ -47,7 +47,7 @@
 | 12 LeeYoungHo  (Younghoda) | n/a | - | - | - | - | litcoder |
 | 13 LeeChanSol  (chansol1604) | n/a | - | - | - | - | mokiya |
 | 14 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 15 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 15 ChoKyuBeen (KyuBeen27) | n/a | - | - | - | - | litcoder |
 | 16 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 17 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 18 HanSangHun (vb0o0dv) | n/a | - | - | - | - | jerry-jaeseong-lee |
