@@ -61,3 +61,5 @@ print(np.argmax(predict[10]))
 plt.imshow(image_train[10])
 plt.title(f'Label: {label_train[10]}')
 plt.show()
+
+##Modified.
