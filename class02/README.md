@@ -46,7 +46,7 @@
 | 11 LeeSungChan (SungChanl) | n/a | - | - | - | - | litcoder |
 | 12 LeeYoungHo  (Younghoda) | n/a | - | - | - | - | litcoder |
 | 13 LeeChanSol  (chansol1604) | n/a | - | - | - | - | mokiya |
-| 14 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 14 JungGahee	 (kingscrosss) | n/a | - | - | - | - | - | mokiya |
 | 15 ChoKyuBeen (KyuBeen27) | n/a | - | - | - | - | litcoder |
 | 16 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 17 KangTaeUi (ksk1900) | n/a | - | - | - | - | mokiya |
