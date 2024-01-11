@@ -57,7 +57,7 @@
 | 17 KangTaeUi (ksk1900) | n/a | - | - | - | - | - | mokiya |
 | 18 HanSanghun (vb0o0dv) | n/a | - | - | - | - | - | mokiya |
 | 19 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
-| 20 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
+| 20 RohJaeHee (blackcattt3) | n/a | - | - | - | - | - | mokiya |
 | 21 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 22 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 23 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
