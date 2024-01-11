@@ -33,27 +33,27 @@
 
 | 영문이름 (GitHub id)           | Team No | HW#1 | HW#2 | HW#3 | Final | Reviewer |
 |-------------------------------|---------|------|------|------|-------|----------|
-| 01 KangDaeWook (Terive0302) | n/a | - | - | - | - | mokiya |
+| 01 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 02 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 03 ChoHyunUk (HYUNUK123) | n/a | - | - | - | - | mokiya |
-| 04 KimKyeongMin (ddakae23) | n/a | - | - | - | - | mokiya |
+| 03 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 04 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 05 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 06 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 07 MoonJeangHwan (HardCoding) | n/a | - | - | - | - | - | mokiya |
+| 07 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 08 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 09 YoonYongBin (Pipework1) | n/a | - | - | - | - | litcoder |
-| 10 YoonHeeSeung (HeeSeungYoon) | n/a | - | - | - | - | litcoder |
-| 11 LeeSungChan (SungChanl) | n/a | - | - | - | - | litcoder |
-| 12 LeeYoungHo  (Younghoda) | n/a | - | - | - | - | litcoder |
-| 13 LeeChanSol  (chansol1604) | n/a | - | - | - | - | mokiya |
-| 14 JungGahee	 (kingscrosss) | n/a | - | - | - | - | - | mokiya |
-| 15 ChoKyuBeen (KyuBeen27) | n/a | - | - | - | - | litcoder |
+| 09 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 10 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 11 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 12 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 13 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 14 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 15 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 16 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| 17 KangTaeUi (ksk1900) | n/a | - | - | - | - | mokiya |
-| 18 HanSangHun (vb0o0dv) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| 19 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| 20 RohJaeHee (blackcattt3) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| 21 KangIsak (82lilsak) | n/a | - | - | - | - | jerry-jaeseong-lee |
+| 17 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
+| 18 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
+| 19 KimJinHee (triptotest02) | n/a | - | - | - | - | jerry-jaeseong-lee |
+| 20 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
+| 21 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 22 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 23 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 24 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
