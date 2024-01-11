@@ -52,7 +52,7 @@
 | 11 LeeSungChan (SungChanl) | n/a | - | - | - | - | - | max5982 |
 | 12 LeeYoungHo  (Younghoda) | n/a | - | - | - | - | - | max5982 |
 | 13 LeeChanSol  (chansol1604) | n/a | - | - | - | - | - | mokiya |
-| 14 JungGahee	 (kingscrosss) | n/a | - | - | - | - | - | max5982 |
+| 14 JungGahee	 (kingscrosss) | n/a | - | - | - | - | - | mokiya |
 | 15 ChoKyuBeen (KyuBeen27) | n/a | - | - | - | - | - | max5982 |
 | 16 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 17 KangTaeUi (ksk1900) | n/a | - | - | - | - | - | mokiya |
