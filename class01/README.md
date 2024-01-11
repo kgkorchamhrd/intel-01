@@ -42,12 +42,12 @@
 | 01 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 02 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 03 ChoHyunUk (HYUNUK123) | n/a | - | - | - | - | - | mokiya |
-| 04 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
+| 04 KimKyeongMin (ddakae23) | n/a | - | - | - | - | - | mokiya |
 | 05 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 06 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 07 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 08 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
-| 09 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
+| 09 YoonYongBin (Pipework1) | n/a | - | - | - | - | - | max5982 |
 | 10 YoonHeeSeung (HeeSeungYoon) | n/a | - | - | - | - | - | max5982 |
 | 11 LeeSungChan (SungChanl) | n/a | - | - | - | - | - | max5982 |
 | 12 LeeYoungHo  (Younghoda) | n/a | - | - | - | - | - | max5982 |
@@ -55,7 +55,7 @@
 | 14 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 15 ChoKyuBeen (KyuBeen27) | n/a | - | - | - | - | - | max5982 |
 | 16 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
-| 17 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
+| 17 KangTaeUi (ksk1900) | n/a | - | - | - | - | - | mokiya |
 | 18 HanSanghun (vb0o0dv) | n/a | - | - | - | - | - | mokiya |
 | 19 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 20 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |

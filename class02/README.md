@@ -36,12 +36,12 @@
 | 01 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 02 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 03 ChoHyunUk (HYUNUK123) | n/a | - | - | - | - | mokiya |
-| 04 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 04 KimKyeongMin (ddakae23) | n/a | - | - | - | - | mokiya |
 | 05 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 06 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 07 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 08 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 09 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 09 YoonYongBin (Pipework1) | n/a | - | - | - | - | litcoder |
 | 10 YoonHeeSeung (HeeSeungYoon) | n/a | - | - | - | - | litcoder |
 | 11 LeeSungChan (SungChanl) | n/a | - | - | - | - | litcoder |
 | 12 LeeYoungHo  (Younghoda) | n/a | - | - | - | - | litcoder |
@@ -49,7 +49,7 @@
 | 14 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 15 ChoKyuBeen (KyuBeen27) | n/a | - | - | - | - | litcoder |
 | 16 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| 17 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
+| 17 KangTaeUi (ksk1900) | n/a | - | - | - | - | mokiya |
 | 18 HanSangHun (vb0o0dv) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 19 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 20 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
