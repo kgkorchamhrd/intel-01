@@ -18,6 +18,11 @@ f_image_test = tf.expand_dims(f_image_test, axis=3, name=None)
 f_image_train = tf.repeat(f_image_train, 3, axis=3)
 f_image_test = tf.repeat(f_image_test, 3, axis=3, name=None)
 
+f_image_val = f_image_train[101:120, :, :, :]
+f_image_train = f_image_train[:100, :, :, :]
+f_label_val = f_label_train[101:120]
+f_label_train = f_label_train[:100]
+
 print(f_image_train.shape)
 print(f_image_test.shape)
 
