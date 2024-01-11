@@ -33,7 +33,7 @@
 
 | 영문이름 (GitHub id)           | Team No | HW#1 | HW#2 | HW#3 | Final | Reviewer |
 |-------------------------------|---------|------|------|------|-------|----------|
-| 01 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 01 KangDaeWook (Terive0302) | n/a | - | - | - | - | mokiya |
 | 02 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 03 ChoHyunUk (HYUNUK123) | n/a | - | - | - | - | mokiya |
 | 04 KimKyeongMin (ddakae23) | n/a | - | - | - | - | mokiya |
@@ -52,7 +52,7 @@
 | 17 KangTaeUi (ksk1900) | n/a | - | - | - | - | mokiya |
 | 18 HanSangHun (vb0o0dv) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 19 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| 20 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
+| 20 RohJaeHee (blackcattt3) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 21 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 22 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 23 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |

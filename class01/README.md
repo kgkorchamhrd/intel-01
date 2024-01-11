@@ -39,7 +39,7 @@
 
 | 영문이름 (GitHub id)           | Team No | HW#1 | HW#2 | HW#3 | HW#4 | HW#5 | Reviewer |
 |-------------------------------|---------|------|------|------|------|------|----------|
-| 01 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
+| 01 KangDaeWook (Terive0302) | n/a | - | - | - | - | - | mokiya |
 | 02 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 03 ChoHyunUk (HYUNUK123) | n/a | - | - | - | - | - | mokiya |
 | 04 KimKyeongMin (ddakae23) | n/a | - | - | - | - | - | mokiya |
@@ -52,13 +52,13 @@
 | 11 LeeSungChan (SungChanl) | n/a | - | - | - | - | - | max5982 |
 | 12 LeeYoungHo  (Younghoda) | n/a | - | - | - | - | - | max5982 |
 | 13 LeeChanSol  (chansol1604) | n/a | - | - | - | - | - | mokiya |
-| 14 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
+| 14 JungGahee	 (kingscrosss) | n/a | - | - | - | - | - | max5982 |
 | 15 ChoKyuBeen (KyuBeen27) | n/a | - | - | - | - | - | max5982 |
 | 16 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 17 KangTaeUi (ksk1900) | n/a | - | - | - | - | - | mokiya |
 | 18 HanSanghun (vb0o0dv) | n/a | - | - | - | - | - | mokiya |
 | 19 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
-| 20 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
+| 20 RohJaeHee (blackcattt3) | n/a | - | - | - | - | - | mokiya |
 | 21 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 22 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 23 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
