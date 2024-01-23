@@ -86,16 +86,15 @@ $ find ./ -iname *.bin|xargs ls -l
 * Project Github : https://github.com/goodsense/project_awesome.git
 * 발표자료 : https://github.com/goodsense/project_aewsome/doc/slide.ppt
 
-### Team: Intel park
-사설 주차장을 관리하는 프로그램. 인공지능을 통해 무엇을 할지는 아직 정하지 못했음.
+### Team: Intel parking lot
+주차장을 관리해주는 시스템.
   | Name | Role |
   |----|----|
-  | 문정환 | 팀장. 음성AI와 서버
-  | 강태의 | 임베디드
-  | 한상훈 | 비전 AI
-  | 강대욱 | 임베디드
-  | 윤희승 | 음성 AI와 서버
-* Project Github : https://github.com/Terive0302/Parking-lot-Project
+  | 문정환 | Project lead, 프로젝트를 총괄하고 형상관리를 책임진다.
+  | 한상훈 | AI modeling, AI모델을 선택하고 data를 수집, training한다.
+  | 강태의 | Technical lead : 기술적 난점을 해결한다.
+  | 강대욱 | Architecter, 상위 디자인을 책임진다.
+* Project Github : https://github.com/HardCoding0417/Parking-lot-project
 * 발표자료 : 
 
 
