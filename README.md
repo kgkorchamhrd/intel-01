@@ -86,7 +86,7 @@ $ find ./ -iname *.bin|xargs ls -l
 * 발표자료 : https://github.com/goodsense/project_aewsome/doc/slide.ppt
 
 
-* ### Team: Team GPT
+### Team: Team GPT
 <프로젝트 요약>
 * Members
   | Name | Role |
