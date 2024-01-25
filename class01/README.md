@@ -40,30 +40,31 @@
 | 영문이름 (GitHub id)           | Team No | HW#1 | HW#2 | HW#3 | HW#4 | HW#5 | Reviewer1 | Reviewer2 |
 |-------------------------------|---------|------|------|------|------|------|----------|----------|
 | 01 KangDaeWook (Terive0302) | n/a | O | O | O | O | O | J-WBaek |
-| 02 KimYoungHee (abcde) | n/a | - | - | - | - | - | J-WBaek |
-| 03 ChoHyunUk (HYUNUK123) | n/a | O | O | O | O | O | J-WBaek |
+| 02 KangIsak (82lilsak) | n/a | O | O | O | O | O | J-WBaek |
+| 03 KangTaeUi (ksk1900) | n/a | - | - | - | - | - | J-WBaek |
 | 04 KimKyeongMin (ddakae23) | n/a | O | O | O | O | O | J-WBaek |
-| 05 KimYoungHee (abcde) | n/a | - | - | - | - | - | J-WBaek |
-| 06 KimYoungHee (abcde) | n/a | - | - | - | - | - | J-WBaek |
-| 07 MoonJeangHwan (HardCoding) | n/a | O | O | O | O | O | J-WBaek |
-| 08 KimYoungHee (abcde) | n/a | - | - | - | - | - | J-WBaek |
-| 09 YoonYongBin (Pipework1) | n/a | O | O | O | O | O | J-WBaek |
-| 10 YoonHeeSeung (HeeSeungYoon) | n/a | O | O | O | O | O | J-WBaek |
-| 11 LeeSungChan (SungChanl) | n/a | O | O | O | O | O | J-WBaek |
-| 12 LeeYoungHo  (Younghoda) | n/a | O | O | O | O | O | J-WBaek |
-| 13 LeeChanSol  (chansol1604) | n/a | O | O | O | O | O | J-WBaek |
-| 14 JungGahee	 (kingscrosss) | n/a | O | O | O | O | O | J-WBaek |
-| 15 ChoKyuBeen (KyuBeen27) | n/a | O | O | O | O | O | J-WBaek |
-| 16 KimYoungHee (abcde) | n/a | - | - | - | - | - | J-WBaek |
-| 17 KangTaeUi (ksk1900) | n/a | - | - | - | - | - | J-WBaek |
-| 18 HanSanghun (vb0o0dv) | n/a | O | O | O | O | O | J-WBaek |
-| 19 KimYoungHee (abcde) | n/a | - | - | - | - | - | J-WBaek |
-| 20 RohJaeHee (blackcattt3) | n/a | O | - | - | - | - | J-WBaek |
-| 21 KangIsak (82lilsak) | n/a | O | O | O | O | O | J-WBaek |
-| 22 KimYoungHee (abcde) | n/a | - | - | - | - | - | J-WBaek |
-| 23 KimYoungHee (abcde) | n/a | - | - | - | - | - | J-WBaek |
-| 24 KimYoungHee (abcde) | n/a | - | - | - | - | - | J-WBaek |
-| 25 KimYoungHee (abcde) | n/a | - | - | - | - | - | J-WBaek |
+| 05 KimDoYoung () | n/a | - | - | - | - | - | J-WBaek |
+| 06 KimJungHwan () | n/a | - | - | - | - | - | J-WBaek |
+| 07 KimJinHee () | n/a | - | - | - | - | - | J-WBaek |
+| 08 RohJaeHee (blackcattt3) | n/a | O | - | - | - | - | J-WBaek |
+| 09 MoonJeangHwan (HardCoding) | n/a | O | O | O | O | O | J-WBaek |
+| 10 ParkDongHoon () | n/a | - | - | - | - | - | J-WBaek |
+| 11 YuHyunUng () | n/a | - | - | - | - | - | J-WBaek |
+| 12 YoonYongBin (Pipework1) | n/a | O | O | O | O | O | J-WBaek |
+| 13 YoonHeeSeung (HeeSeungYoon) | n/a | O | O | O | O | O | J-WBaek |
+| 14 LeeSungChan (SungChanl) | n/a | O | O | O | O | O | J-WBaek |
+| 15 LeeYoungHo  (Younghoda) | n/a | O | O | O | O | O | J-WBaek |
+| 16 LeeChanSol  (chansol1604) | n/a | O | O | O | O | O | J-WBaek |
+| 17 JungGahee	 (kingscrosss) | n/a | O | O | O | O | O | J-WBaek |
+| 18 ChoKyuBeen (KyuBeen27) | n/a | O | O | O | O | O | J-WBaek |
+| 19 ChoJiHyun () | n/a | - | - | - | - | - | J-WBaek |
+| 20 ChoHyunUk (HYUNUK123) | n/a | O | O | O | O | O | J-WBaek |
+| 21 ChoiMyungSu () | n/a | - | - | - | - | - | J-WBaek |
+| 22 HanSanghun (vb0o0dv) | n/a | O | O | O | O | O | J-WBaek |
+| 23 HongDoHyeong () | n/a | - | - | - | - | - | J-WBaek |
+
+
+
 
 ### Mini Projects
 
