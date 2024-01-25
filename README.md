@@ -74,7 +74,7 @@ $ find ./ -iname *.bin|xargs ls -l
 ### 제출현황
 
 ### Team: 시식코너
-카메라를 이용해 사람의 얼굴을 인식해 맞춤형 음료 광고를 재생해주고, 광고를 모두 봤다면 해당하는 음료를 시음할 수 있게 하는 프로그램램
+카메라를 이용해 사람의 얼굴을 인식해 맞춤형 음료 광고를 재생해주고, 광고를 모두 봤다면 해당하는 음료를 시음할 수 있게 하는 프로그램
 * Members
   | Name | Role |
   |----|----|
@@ -85,3 +85,16 @@ $ find ./ -iname *.bin|xargs ls -l
 * Project Github : https://github.com/chansol1604/project_Ai_ad.git
 * 발표자료 : https://github.com/chansol1604/project_Ai_ad/blob/main/2%EC%A1%B0.pptx
 
+
+* ### Team: Team GPT
+<프로젝트 요약>
+* Members
+  | Name | Role |
+  |----|----|
+  | 강이삭 | Project lead, pretrain 모델 결정, custom train model 학습, data라벨링, 프로젝트를 총괄한다. |
+  | 이성찬 | Project manager, custom train model 의 Predict 코드 작성, 하드웨어 제어 코드 작성, 가이드 라인 제시. |
+  | 이영호 | jetson - raspberrypy 간 통신, data 수집, 하드웨어 제어 코드 작성, data 라벨링 |
+  | 김경민 | rc-car 하드웨어 제작, 트랙 제작, data 수집, data 라벨링, 정보 수집 을 수행한다. |
+  | 조현욱 | data 수집, jetson - raspberrypy 간 통신, 하드웨어 제어 코드 작성. |
+* Project Github : https://github.com/82lilsak/automatic_driving_rc_car.git
+* 발표자료 : https://docs.google.com/presentation/d/1lcZgRt2UtX3FBcI--Va3W0HJIWWH3JD9IqRSMXDPwtM/edit?usp=sharing
