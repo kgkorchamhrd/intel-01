@@ -98,3 +98,16 @@ $ find ./ -iname *.bin|xargs ls -l
   | 조현욱 | data 수집, jetson - raspberrypy 간 통신, 하드웨어 제어 코드 작성. |
 * Project Github : https://github.com/82lilsak/automatic_driving_rc_car.git
 * 발표자료 : https://docs.google.com/presentation/d/1lcZgRt2UtX3FBcI--Va3W0HJIWWH3JD9IqRSMXDPwtM/edit?usp=sharing
+
+* ### Team: Intel Parking lot
+<프로젝트 요약>
+이제껏 배운 기술을 총동원하여 주차장 시스템을 구현해내는 프로젝트
+* Members
+  | Name | Role |
+  |----|----|
+  | 문정환 | Project lead 프로젝트를 총괄한다. |
+  | 강태의 | Technical lead : 기술적 난점을 해결한다. |
+  | 강대욱 | Architecter : 상위레벨 디자인을 책임진다. |
+  | 한상훈 |  AI modeling, 원하는 결과가 나오도록 AI model을 선택, data 수집, training을 수행한다.|
+* Project Github : https://github.com/HardCoding0417/Parking-lot-project
+* 발표자료 : https://github.com/HardCoding0417/Parking-lot-project/tree/main/doc/presentation.odp
