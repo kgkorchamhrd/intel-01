@@ -73,8 +73,8 @@ $ find ./ -iname *.bin|xargs ls -l
 
 ### 제출현황
 
-### Team: 뭔가 센스있는 팀명
-<프로젝트 요약>
+### Team: 시식코너
+카메라를 이용해 사람의 얼굴을 인식해 맞춤형 음료 광고를 재생해주고, 광고를 모두 봤다면 해당하는 음료를 시음할 수 있게 하는 프로그램램
 * Members
   | Name | Role |
   |----|----|
@@ -83,5 +83,5 @@ $ find ./ -iname *.bin|xargs ls -l
   | 윤용빈 | AI modeling, 원하는 결과가 나오도록 AI model을 선택, data 수집, training을 수행한다. |
   | 노재희 | AI modeling, 원하는 결과가 나오도록 AI model을 선택, data 수집, training을 수행한다. |
 * Project Github : https://github.com/chansol1604/project_Ai_ad.git
-* 발표자료 : https://github.com/goodsense/project_aewsome/doc/slide.ppt
+* 발표자료 : https://github.com/chansol1604/project_Ai_ad/blob/main/2%EC%A1%B0.pptx
 
