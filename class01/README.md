@@ -68,11 +68,8 @@
 
 ### Mini Projects
 
-* Team x:
-* Team y:
-* Team z:
-* Team w:
-* Team v:
-* Team a:
-* Team b:
-
+* Team 1 : 한상훈, 윤희승, 문정환 
+* Team 2 : 이찬솔, 정가희
+* Team 3 : 김경민, 조현욱
+* Team 4 : 이성찬, 이영호
+* Team 5 : 강이삭, 강대욱
