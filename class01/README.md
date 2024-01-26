@@ -39,28 +39,28 @@
 
 | 영문이름 (GitHub id)           | Team No | HW#1 | HW#2 | HW#3 | HW#4 | HW#5 | Reviewer1 | Reviewer2 |
 |-------------------------------|---------|------|------|------|------|------|----------|----------|
-| 01 KangDaeWook (Terive0302) | n/a | O | O | O | O | O | J-WBaek |
-| 02 KangIsak (82lilsak) | n/a | O | O | O | O | O | J-WBaek |
+| 01 KangDaeWook (Terive0302) | 5 | O | O | O | O | O | J-WBaek |
+| 02 KangIsak (82lilsak) | 5 | O | O | O | O | O | J-WBaek |
 | 03 KangTaeUi (ksk1900) | n/a | - | - | - | - | - | J-WBaek |
-| 04 KimKyeongMin (ddakae23) | n/a | O | O | O | O | O | J-WBaek |
+| 04 KimKyeongMin (ddakae23) | 3 | O | O | O | O | O | J-WBaek |
 | 05 KimDoYoung () | n/a | - | - | - | - | - | J-WBaek |
 | 06 KimJungHwan () | n/a | - | - | - | - | - | J-WBaek |
 | 07 KimJinHee () | n/a | - | - | - | - | - | J-WBaek |
 | 08 RohJaeHee (blackcattt3) | n/a | O | - | - | - | - | J-WBaek |
-| 09 MoonJeangHwan (HardCoding) | n/a | O | O | O | O | O | J-WBaek |
+| 09 MoonJeangHwan (HardCoding) | 1 | O | O | O | O | O | J-WBaek |
 | 10 ParkDongHoon () | n/a | - | - | - | - | - | J-WBaek |
 | 11 YuHyunUng () | n/a | - | - | - | - | - | J-WBaek |
 | 12 YoonYongBin (Pipework1) | n/a | O | O | O | O | O | J-WBaek |
-| 13 YoonHeeSeung (HeeSeungYoon) | n/a | O | O | O | O | O | J-WBaek |
-| 14 LeeSungChan (SungChanl) | n/a | O | O | O | O | O | J-WBaek |
-| 15 LeeYoungHo  (Younghoda) | n/a | O | O | O | O | O | J-WBaek |
-| 16 LeeChanSol  (chansol1604) | n/a | O | O | O | O | O | J-WBaek |
-| 17 JungGahee	 (kingscrosss) | n/a | O | O | O | O | O | J-WBaek |
+| 13 YoonHeeSeung (HeeSeungYoon) | 1 | O | O | O | O | O | J-WBaek |
+| 14 LeeSungChan (SungChanl) | 4 | O | O | O | O | O | J-WBaek |
+| 15 LeeYoungHo  (Younghoda) | 4 | O | O | O | O | O | J-WBaek |
+| 16 LeeChanSol  (chansol1604) | 2 | O | O | O | O | O | J-WBaek |
+| 17 JungGahee	 (kingscrosss) | 2 | O | O | O | O | O | J-WBaek |
 | 18 ChoKyuBeen (KyuBeen27) | n/a | O | O | O | O | O | J-WBaek |
 | 19 ChoJiHyun () | n/a | - | - | - | - | - | J-WBaek |
-| 20 ChoHyunUk (HYUNUK123) | n/a | O | O | O | O | O | J-WBaek |
+| 20 ChoHyunUk (HYUNUK123) | 3 | O | O | O | O | O | J-WBaek |
 | 21 ChoiMyungSu () | n/a | - | - | - | - | - | J-WBaek |
-| 22 HanSanghun (vb0o0dv) | n/a | O | O | O | O | O | J-WBaek |
+| 22 HanSanghun (vb0o0dv) | 1 | O | O | O | O | O | J-WBaek |
 | 23 HongDoHyeong () | n/a | - | - | - | - | - | J-WBaek |
 
 
@@ -68,8 +68,8 @@
 
 ### Mini Projects
 
-* Team 1 : 한상훈, 윤희승, 문정환 
+* Team 1 : 한상훈, 윤희승, 문정환
 * Team 2 : 이찬솔, 정가희
-* Team 3 : 김경민, 조현욱
-* Team 4 : 이성찬, 이영호
-* Team 5 : 강이삭, 강대욱
+* Team 3 : 정신차려[김경민, 조현욱](./homework/ChoHyunuk/hw3_Day05_Day07_openvino/miniproject/eye_detection.odp)
+* Team 4 : 비켜[이성찬, 이영호](./homework/LeeSungchan/hw3_Day05_Day07_openvino/dfd96302f57fc01d.pptx)
+* Team 5 : AI미니게임[강이삭, 강대욱](./homework/KangIsak/hw1_Day07_openvino/AI_.pptx)
