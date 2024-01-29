@@ -2,3 +2,5 @@
 *.swp
 .venv*/
 .vscode/
+.jpg
+.png
