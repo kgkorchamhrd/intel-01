@@ -95,4 +95,4 @@ $ find ./ -iname *.bin|xargs ls -l
   | 강태의 | Technical lead : 기술적 난점을 해결한다.
   | 강대욱 | Architecter, 상위 디자인을 책임진다.
 * Project Github : https://github.com/HardCoding0417/Parking-lot-project
-* 발표자료 : https://github.com/HardCoding0417/Parking-lot-project/doc/presentation.odp
+* 발표자료 : https://github.com/HardCoding0417/Parking-lot-project/blob/main/doc/presentation.odp
