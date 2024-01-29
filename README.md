@@ -85,7 +85,6 @@ $ find ./ -iname *.bin|xargs ls -l
 * Project Github : https://github.com/chansol1604/project_Ai_ad.git
 * 발표자료 : https://github.com/chansol1604/project_Ai_ad/blob/main/2%EC%A1%B0.pptx
 
-
 * ### Team: Team GPT
 <프로젝트 요약>
 * Members
@@ -98,3 +97,14 @@ $ find ./ -iname *.bin|xargs ls -l
   | 조현욱 | data 수집, jetson - raspberrypy 간 통신, 하드웨어 제어 코드 작성. |
 * Project Github : https://github.com/82lilsak/automatic_driving_rc_car.git
 * 발표자료 : https://docs.google.com/presentation/d/1lcZgRt2UtX3FBcI--Va3W0HJIWWH3JD9IqRSMXDPwtM/edit?usp=sharing
+
+### Team: Intel parking lot
+주차장을 관리해주는 시스템.
+  | Name | Role |
+  |----|----|
+  | 문정환 | Project lead, 프로젝트를 총괄하고 형상관리를 책임진다. |
+  | 한상훈 | AI modeling, AI모델을 선택하고 data를 수집, training한다. |
+  | 강태의 | Technical lead : 기술적 난점을 해결한다. |
+  | 강대욱 | Architecter, 상위 디자인을 책임진다. |
+* Project Github : https://github.com/HardCoding0417/Parking-lot-project
+* 발표자료 : https://github.com/HardCoding0417/Parking-lot-project/doc/presentation.odp
