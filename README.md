@@ -73,26 +73,38 @@ $ find ./ -iname *.bin|xargs ls -l
 
 ### 제출현황
 
-### Team: 뭔가 센스있는 팀명
+### Team: 시식코너
+카메라를 이용해 사람의 얼굴을 인식해 맞춤형 음료 광고를 재생해주고, 광고를 모두 봤다면 해당하는 음료를 시음할 수 있게 하는 프로그램
+* Members
+  | Name | Role |
+  |----|----|
+  | 이찬솔 | Project lead, AI modeling, 프로젝트를 총괄한다. |
+  | 정가희 | Project manager, Embedded programming 프로젝트 이슈 진행상황을 관리한다. |
+  | 윤용빈 | AI modeling, 원하는 결과가 나오도록 AI model을 선택, data 수집, training을 수행한다. |
+  | 노재희 | AI modeling, 원하는 결과가 나오도록 AI model을 선택, data 수집, training을 수행한다. |
+* Project Github : https://github.com/chansol1604/project_Ai_ad.git
+* 발표자료 : https://github.com/chansol1604/project_Ai_ad/blob/main/2%EC%A1%B0.pptx
+
+* ### Team: Team GPT
 <프로젝트 요약>
 * Members
   | Name | Role |
   |----|----|
-  | 채치수 | Project lead, 프로젝트를 총괄하고 망하면 책임진다. |
-  | 송태섭 | Project manager, 마일스톤을 생성하고 프로젝트 이슈 진행상황을 관리한다. |
-  | 정대만 | UI design, 사용자 인터페이스를 정의하고 구현한다. |
-  | 채소연 | AI modeling, 원하는 결과가 나오도록 AI model을 선택, data 수집, training을 수행한다. |
-  | 권준호 | Architect, 프로젝트의 component를 구성하고 상위 디자인을 책임진다. |
-* Project Github : https://github.com/goodsense/project_awesome.git
-* 발표자료 : https://github.com/goodsense/project_aewsome/doc/slide.ppt
+  | 강이삭 | Project lead, pretrain 모델 결정, custom train model 학습, data라벨링, 프로젝트를 총괄한다. |
+  | 이성찬 | Project manager, custom train model 의 Predict 코드 작성, 하드웨어 제어 코드 작성, 가이드 라인 제시. |
+  | 이영호 | jetson - raspberrypy 간 통신, data 수집, 하드웨어 제어 코드 작성, data 라벨링 |
+  | 김경민 | rc-car 하드웨어 제작, 트랙 제작, data 수집, data 라벨링, 정보 수집 을 수행한다. |
+  | 조현욱 | data 수집, jetson - raspberrypy 간 통신, 하드웨어 제어 코드 작성. |
+* Project Github : https://github.com/82lilsak/automatic_driving_rc_car.git
+* 발표자료 : https://docs.google.com/presentation/d/1lcZgRt2UtX3FBcI--Va3W0HJIWWH3JD9IqRSMXDPwtM/edit?usp=sharing
 
 ### Team: Intel parking lot
 주차장을 관리해주는 시스템.
   | Name | Role |
   |----|----|
-  | 문정환 | Project lead, 프로젝트를 총괄하고 형상관리를 책임진다.
-  | 한상훈 | AI modeling, AI모델을 선택하고 data를 수집, training한다.
-  | 강태의 | Technical lead : 기술적 난점을 해결한다.
-  | 강대욱 | Architecter, 상위 디자인을 책임진다.
+  | 문정환 | Project lead, 프로젝트를 총괄하고 형상관리를 책임진다. |
+  | 한상훈 | AI modeling, AI모델을 선택하고 data를 수집, training한다. |
+  | 강태의 | Technical lead : 기술적 난점을 해결한다. |
+  | 강대욱 | Architecter, 상위 디자인을 책임진다. |
 * Project Github : https://github.com/HardCoding0417/Parking-lot-project
 * 발표자료 : https://github.com/HardCoding0417/Parking-lot-project/blob/main/doc/presentation.odp
