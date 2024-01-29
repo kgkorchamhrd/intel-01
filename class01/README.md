@@ -69,7 +69,7 @@
 ### Mini Projects
 
 * Team 1 : [Voice Interface](./mini-project/voice_interface.odp) (한상훈, 윤희승, 문정환)
-* Team 2 : 감정네컷( LINK : ./mini-project/Mini Project (감정네컷).pptx  ) (이찬솔, 정가희)
+* Team 2 : 감정네컷(./mini-project/Mini Project.pptx  ) (이찬솔, 정가희)
 * Team 3 : [정신차려](./homework/ChoHyunuk/hw3_Day05_Day07_openvino/miniproject/eye_detection.odp) (김경민, 조현욱)
 * Team 4 : [비켜](./homework/LeeSungchan/hw3_Day05_Day07_openvino/dfd96302f57fc01d.pptx) (이성찬, 이영호)
 * Team 5 : [AI미니게임](./homework/KangIsak/hw1_Day07_openvino/AI_.pptx) (강이삭, 강대욱)
