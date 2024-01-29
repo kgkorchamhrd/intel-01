@@ -6,7 +6,7 @@
 
 ### 제출방법
 
-1. 과제 제출을 위해 `인텔교육 3기 Github repository`에서 `New Issue` 생성
+1. 과제 제출을 위해 `인텔교육 1기 Github repository`에서 `New Issue` 생성
 
 2. 강사가 생성한 `Milestone`에 생성된 Issue에 추가 
 
@@ -30,31 +30,31 @@
 6. `Reviewer` feedback에 따라 수정 PR 업로드
 
 ### 제출현황
+1. HW#1 : 안면감지시 Arduino LED On / OFF
+2. HW#2 : 스마트팩토리 컨트롤 코드 주석 부분에 기능 구현
 
-| 영문이름 (GitHub id)           | Team No | HW#1 | HW#2 | HW#3 | Final | Reviewer |
+| 영문이름 (GitHub id)           | Team No | HW#1 | HW#2 | Final | Reviewer |
 |-------------------------------|---------|------|------|------|-------|----------|
-| 01 KangDaeWook (Terive0302) | n/a | - | - | - | - | mokiya |
-| 02 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 03 ChoHyunUk (HYUNUK123) | n/a | - | - | - | - | mokiya |
-| 04 KimKyeongMin (ddakae23) | n/a | - | - | - | - | mokiya |
-| 05 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 06 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 07 MoonJeangHwan (HardCoding) | n/a | - | - | - | - | - | mokiya |
-| 08 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 09 YoonYongBin (Pipework1) | n/a | - | - | - | - | litcoder |
-| 10 YoonHeeSeung (HeeSeungYoon) | n/a | - | - | - | - | litcoder |
-| 11 LeeSungChan (SungChanl) | n/a | - | - | - | - | litcoder |
-| 12 LeeYoungHo  (Younghoda) | n/a | - | - | - | - | litcoder |
-| 13 LeeChanSol  (chansol1604) | n/a | - | - | - | - | mokiya |
-| 14 JungGahee	 (kingscrosss) | n/a | - | - | - | - | - | mokiya |
-| 15 ChoKyuBeen (KyuBeen27) | n/a | - | - | - | - | litcoder |
-| 16 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| 17 KangTaeUi (ksk1900) | n/a | - | - | - | - | mokiya |
-| 18 HanSangHun (vb0o0dv) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| 19 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| 20 RohJaeHee (blackcattt3) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| 21 KangIsak (82lilsak) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| 22 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| 23 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| 24 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| 25 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
+| 01 KangDaeWook (Terive0302) | - | - | - | - | - | - | J-WBaek |
+| 02 KangIsak (82lilsak) | - | - | - | - | - | - | J-WBaek |
+| 03 KangTaeUi (ksk1900) | n/a | - | - | - | - | - | J-WBaek |
+| 04 KimKyeongMin (ddakae23) | - | - | - | - | - | - | J-WBaek |
+| 05 KimDoYoung () | n/a | - | - | - | - | - | J-WBaek |
+| 06 KimJungHwan () | n/a | - | - | - | - | - | J-WBaek |
+| 07 KimJinHee () | n/a | - | - | - | - | - | J-WBaek |
+| 08 RohJaeHee (blackcattt3) | - | - | - | - | - | - | J-WBaek |
+| 09 MoonJeangHwan (HardCoding) | - | - | - | - | - | - | J-WBaek |
+| 10 ParkDongHoon () | n/a | - | - | - | - | - | J-WBaek |
+| 11 YuHyunUng () | n/a | - | - | - | - | - | J-WBaek |
+| 12 YoonYongBin (Pipework1) | - | - | - | - | - | - | J-WBaek |
+| 13 YoonHeeSeung (HeeSeungYoon) | - | - | - | - | - | - | J-WBaek |
+| 14 LeeSungChan (SungChanl) | - | - | - | - | - | - | J-WBaek |
+| 15 LeeYoungHo  (Younghoda) | - | - | - | - | - | - | J-WBaek |
+| 16 LeeChanSol  (chansol1604) | - | - | - | - | - | - | J-WBaek |
+| 17 JungGahee	 (kingscrosss) | - | - | - | - | - | - | J-WBaek |
+| 18 ChoKyuBeen (KyuBeen27) | - | - | - | - | - | - | J-WBaek |
+| 19 ChoJiHyun () | n/a | - | - | - | - | - | J-WBaek |
+| 20 ChoHyunUk (HYUNUK123) | - | - | - | - | - | - | J-WBaek |
+| 21 ChoiMyungSu () | n/a | - | - | - | - | - | J-WBaek |
+| 22 HanSanghun (vb0o0dv) | - | - | - | - | - | - | J-WBaek |
+| 23 HongDoHyeong () | n/a | - | - | - | - | - | J-WBaek |
