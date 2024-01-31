@@ -85,7 +85,7 @@ $ find ./ -iname *.bin|xargs ls -l
 * Project Github : https://github.com/chansol1604/project_Ai_ad.git
 * 발표자료 : https://github.com/chansol1604/project_Ai_ad/blob/main/2%EC%A1%B0.pptx
 
-* ### Team: Team GPT
+### Team: Team GPT
 <프로젝트 요약>
 * Members
   | Name | Role |
