@@ -54,7 +54,7 @@
 | 17 JungGahee	 (kingscrosss) | - | - | - | - | J-WBaek |
 | 18 ChoKyuBeen (KyuBeen27) | - | - | - | - | J-WBaek |
 | 19 ChoJiHyun () | n/a | - | - | - | - | J-WBaek |
-| 20 ChoHyunUk (HYUNUK123) | - | - | - | - | J-WBaek |
+| 20 ChoHyunUk (HYUNUK123) | - | - | O | - | J-WBaek |
 | 21 ChoiMyungSu () | n/a | - | - | - | J-WBaek |
 | 22 HanSanghun (vb0o0dv) | - | - | - | - | J-WBaek |
 | 23 HongDoHyeong () | n/a | - | - | - | J-WBaek |
